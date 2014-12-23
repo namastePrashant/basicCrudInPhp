@@ -32,11 +32,11 @@
 		</div>
 		<div>
 			<label>Gender:</label>
-			<select type="select" name="gender" />
+			<select type="select" name="gender" >
 				<option>Select</option>
 				<option value="male">Male</option>
 				<option value="female">Female</option>
-			<select>
+			</select>
 		</div>
 		<input type="submit" name="submit" value="submit" />
 	</form>
